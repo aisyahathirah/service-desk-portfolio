@@ -1,7 +1,7 @@
 # INC941968 – Network Drive Access Issue (Network Path Not Found)
 
 **Category:** Network / File Access  
-**Priority:** Not specified  
+**Priority:** Medium
 **Status:** Resolved  
 **Reported by:** Kevin Zhang  
 **Department:** Engineering

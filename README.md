@@ -1,47 +1,73 @@
-# IT Service Desk & Technical Support Portfolio
+# IT Service Desk Portfolio
 
-Welcome to my IT Service Desk portfolio!
+Welcome to my IT Service Desk Portfolio!
 
-This repository documents my hands-on practice in IT support, troubleshooting, incident management and Windows administration through simulated technical support scenarios.
+This repository documents my hands-on learning journey in IT Support and Service Desk operations. It contains practical troubleshooting scenarios, technical investigations, and step-by-step documentation based on common IT support issues encountered in a workplace environment.
 
-## About This Portfolio
+The purpose of this portfolio is to develop and demonstrate my foundational IT troubleshooting skills, problem-solving abilities, and technical documentation practices.
 
-I am developing my technical skills in IT Service Management and Technical Support, with an interest in networking, cybersecurity and cloud technologies.
+## About This Repository
 
-## Technical Skills
+This portfolio focuses on common Level 1 (L1) IT Support scenarios, including hardware, software, network connectivity, and remote access issues.
 
-- Windows Troubleshooting
-- Network Connectivity
-- VPN Troubleshooting
-- Remote Desktop (RDP)
-- DNS Troubleshooting
-- Basic Command Line Operations
-- Incident Documentation
-- End-user Technical Support
+Each case study documents the reported issue, troubleshooting process, findings, and resolution where applicable.
 
-## Practical Exercises
+## Troubleshooting Scenarios
 
-| Scenario | Category | Status |
+| No. | Issue | Category |
 |---|---|---|
-| VPN Connection Issue | Networking | Completed |
-| Remote Desktop Issue | Windows Support | In Progress |
-| Shared Drive Access | Access Management | In Progress |
-| DNS Troubleshooting | Networking | In Progress |
+| 01 | Monitor Stopped Working | Hardware |
+| 02 | Unable to Save Files into Folder | File & Folder Access |
+| 03 | Network Drive Will Not Open | Network / Shared Drive |
+| 04 | PC Completely Unresponsive | Hardware / System |
+| 05 | Wi-Fi Keeps Disconnecting | Network Connectivity |
+| 06 | VPN Disconnected and Won't Reconnect | Remote Access / Network |
 
-## Tools & Technologies
+## Skills & Technologies
 
-- Windows 11
-- Command Prompt
-- GitHub
-- Markdown
+Throughout this project, I am developing my understanding of:
+
+- IT troubleshooting and problem-solving
+- Hardware and software diagnostics
+- Windows operating system support
+- Network connectivity troubleshooting
+- VPN and remote access support
+- File and folder access management
+- Technical documentation
+- First-level IT support practices
+
+## Repository Structure
+
+```text
+IT-Service-Desk-Portfolio/
+│
+├── Images/
+│
+├── service-tickets/
+│   ├── 01 - Monitor stopped working issue.md
+│   ├── 02 - Can't save into folder issue.md
+│   ├── 03 - Drive will not open issue.md
+│   ├── 04 - PC completely dead issue.md
+│   ├── 05 - Wifi keeps disconnecting issue.md
+│   └── 06 - VPN disconnected and won't reconnect issue.md
+│
+└── README.md
+```
 
 ## Learning Objectives
 
-- Develop structured troubleshooting methodologies.
-- Improve technical documentation skills.
-- Understand L1 Service Desk responsibilities.
-- Build foundational knowledge in networking and IT support.
+My objectives for this portfolio are to:
 
----
+- Strengthen my foundational IT Support knowledge.
+- Practise troubleshooting common end-user technical issues.
+- Improve my ability to investigate and document technical problems.
+- Develop a structured approach to incident resolution.
+- Build practical knowledge relevant to an entry-level IT Service Desk role.
 
-*This portfolio contains self-directed practice and simulated troubleshooting exercises. It does not represent production IT support experience.*
+## About Me
+
+I have an academic background in Computer Science and Electrical & Computer Engineering, with an interest in IT infrastructure, networking, cybersecurity, and technical support.
+
+I created this repository as part of my continuous learning journey and preparation for a career in IT.
+
+**This portfolio is continuously updated as I explore new troubleshooting scenarios and expand my technical knowledge.**
